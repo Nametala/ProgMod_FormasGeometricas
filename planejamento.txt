@@ -1,0 +1,34 @@
+-> FormaGeométrica          COLABORAÇÕES
+- calc area                 Quadrado, Circulo, Triangulo, Retangulo : area
+- calc perimetro            Quadrado, Circulo, Triangulo, Retangulo : perimetro
+- comparar com outro
+
+-> Conjunto                  COLABORAÇÕES
+- armazenas formas           Forma : objeto
+- descobrir maior            Forma : comparar
+
+-> Poligono
+- base 
+- altura 
+
+-> Quadrado
+- calc area
+- calc perimetro              
+- (base , altura >> iguais )
+
+-> Retangulo
+- calc area
+- calc perimetro
+- (base , altura)
+
+-> Triangulo
+- calc area
+- calc perimetro
+- calc hipotenusa
+- (base , altura)
+
+-> Circulo
+- calc area
+- calc perimetro
+- (raio)
+
